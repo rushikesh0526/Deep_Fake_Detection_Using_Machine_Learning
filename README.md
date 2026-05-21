@@ -30,7 +30,7 @@ Python, TensorFlow/Keras, OpenCV, PyTorch
 
 •	Biometric verification (micro-expressions, eye movement)
 
-•	Audio-visual synchronization check for inconsistencies
+
 
 # Expected Output from Project
 •	Confirmation of whether a video is real or fake
